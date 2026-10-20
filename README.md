@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Lost and Found Portal (C++)
 
 A menu-driven console application for recording lost and found belongings on a campus and
@@ -91,3 +92,7 @@ file handling (`ifstream`/`ofstream`). Beyond the basic list, the code also uses
 `enum class`, `std::unordered_map`, a `namespace`, and one exception class (`InputClosed`).
 Be ready to explain those, or tell your evaluator they are deliberate extras.
 There is no inheritance or virtual functions, because `Item` has a `type` field instead.
+=======
+# Campus-Lost-And-Found
+College lost and found is a management system that allows students to report lost or found items, search and filter reports, identify possible matches, and track claimed items. It applies OOP concepts such as classes and objects, encapsulation, and constructors to organize item records.
+>>>>>>> c1e2d9c0b36c6df20e7cda1e4da4664e1b09c3dd
