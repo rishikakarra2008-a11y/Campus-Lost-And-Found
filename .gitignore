@@ -1,0 +1,10 @@
+CampusFind
+CampusFind.exe
+test_core
+test_core.exe
+*.o
+items.txt
+items.txt.bak
+items.txt.tmp
+items.txt.rejected
+*.csv

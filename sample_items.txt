@@ -1,0 +1,8 @@
+#CampusFind data v2
+R2|1|LOST|OPEN|Blue water bottle|Bottle|Steel bottle with a dent near the cap|Library|2026-10-12|Ravi 98765|2026-10-12 16:10|0|
+R2|2|FOUND|OPEN|Blue steel flask|Bottle|Dented blue steel bottle|Library reading hall|2026-10-14|Security desk|2026-10-14 09:30|0|
+R2|3|LOST|OPEN|Samsung mobile|Electronics|Black Samsung phone, cracked screen, green cover|Block C|2026-10-15|Anita 99887|2026-10-15 12:00|0|
+R2|4|FOUND|OPEN|Smartphone|Electronics|Samsung phone with cracked screen|Block C corridor|2026-10-16|Guard room|2026-10-16 08:15|0|
+R2|5|FOUND|OPEN|Black leather wallet|Wallet|Wallet with college ID and some cash|Canteen|2026-10-17|Canteen counter|2026-10-17 13:45|0|
+R2|6|LOST|OPEN|Student ID card|ID card|ID card of Meena, Mechanical 2nd year|Canteen|2026-10-17|Meena 91234|2026-10-17 15:00|0|
+R2|7|LOST|OPEN|Red umbrella|Umbrella|Red folding umbrella|Main gate|2026-10-18|Kiran 90909|2026-10-18 17:20|0|
